@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1524ff6.css",
+    "main.js": "/static/js/main.d0d59493.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/doc-link-logo.png": "/static/media/doc-link-logo.68c5e2635a13ff4c392f.png",
+    "index.html": "/index.html",
+    "main.e1524ff6.css.map": "/static/css/main.e1524ff6.css.map",
+    "main.d0d59493.js.map": "/static/js/main.d0d59493.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1524ff6.css",
+    "static/js/main.d0d59493.js"
+  ]
+}
